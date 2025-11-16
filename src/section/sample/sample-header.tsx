@@ -29,7 +29,7 @@ export default function SampleHeader() {
                 </a>
                 . Dukung kami dengan memberi star di{" "}
                 <a
-                    href="#"
+                    href="https://github.com/Khasbi-Syahidin/starter-project-animation-react-js"
                     className="font-semibold text-cyan-500 hover:text-cyan-400 transition"
                 >
                     Repository Github
