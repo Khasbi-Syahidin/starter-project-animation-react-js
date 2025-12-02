@@ -1,5 +1,7 @@
 # Starter Komponen Animasi dengan React & Framer Motion
 
+![Project Preview](public/image/starter-project-animation-react-js.png)
+
 Proyek ini adalah starter kit untuk mengimplementasikan animasi komponen yang kaya dan dapat digunakan kembali di aplikasi React (Next.js) menggunakan `framer-motion`.
 
 ## Memulai
